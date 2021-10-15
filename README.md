@@ -3,7 +3,7 @@
 Rust wasm [John Horton Conway's game of life](https://fr.wikipedia.org/wiki/Jeu_de_la_vie) implementation
 
 
-![game of life gif](https://github.com/Evergreenn/wasm-game-of-life/raw/master/gol.gif "gol-gif")
+![game of life gif](https://raw.githubusercontent.com/Evergreenn/wasm-game-of-life/main/gol.gif "gol-gif")
 
 
 ## 🔋 Batteries Included
